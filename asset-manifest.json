@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/my-app/static/css/main.16511595.css",
+    "main.js": "/my-app/static/js/main.aaacc7cb.js",
+    "static/media/BNazanin.ttf": "/my-app/static/media/BNazanin.6bc733e94be658fac89e.ttf",
+    "static/media/B Nazanin Bold.TTF": "/my-app/static/media/B Nazanin Bold.234e90c54d5b365c8990.TTF",
+    "index.html": "/my-app/index.html",
+    "main.16511595.css.map": "/my-app/static/css/main.16511595.css.map",
+    "main.aaacc7cb.js.map": "/my-app/static/js/main.aaacc7cb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.16511595.css",
+    "static/js/main.aaacc7cb.js"
+  ]
+}
